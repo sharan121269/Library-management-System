@@ -147,6 +147,3 @@ FROM issued_status;
 
 
 
-📄 License
-
-This project is for educational and learning purposes.
